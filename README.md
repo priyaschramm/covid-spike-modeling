@@ -43,4 +43,10 @@ Successfully generated a 3D structural model of the mutated spike–ACE2 complex
 - Modeling approach: comparative modeling with MODELLER
 - Template structure: SARS-CoV-2 spike–ACE2 complex (PDB: 6M0J)
 
+## Structure Visualization (Added structural visualization of spike-ACE2 
+model)
 
+![Spike-ACE2 Model](spike_model.png)
+
+The modeled structure shows the SARS-CoV-2 spike receptor-binding domain 
+(red) interacting with the human ACE2 receptor (blue).
