@@ -35,4 +35,12 @@ initialization, and violation files.
 python model.py data/SARS-CoV-2_spike_ACE2.ali template_6moj 
 SpikeACE2mutant data
 
+## Key Result
+
+Successfully generated a 3D structural model of the mutated spike–ACE2 complex using homology modeling.
+
+- Output model: `SpikeACE2mutant.B99990001.pdb`
+- Modeling approach: comparative modeling with MODELLER
+- Template structure: SARS-CoV-2 spike–ACE2 complex (PDB: 6M0J)
+
 
