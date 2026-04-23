@@ -35,7 +35,7 @@ initialization, and violation files.
 python model.py data/SARS-CoV-2_spike_ACE2.ali template_6moj 
 SpikeACE2mutant data
 
-## Key Result
+## Key result
 
 Successfully generated a 3D structural model of the mutated spike–ACE2 complex using homology modeling.
 
@@ -46,7 +46,7 @@ Successfully generated a 3D structural model of the mutated spike–ACE2 complex
 ## Structure Visualization (Added structural visualization of spike-ACE2 
 model)
 
-![Spike-ACE2 Model](spike_model.png)
+[Spike-ACE2 Model](spike_model.png)
 
 The modeled structure shows the SARS-CoV-2 spike receptor-binding domain 
-(red) interacting with the human ACE2 receptor (blue).
+interacting with the human ACE2 receptor.
